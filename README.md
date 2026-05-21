@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="newbanner.gif" alt="MasterHead" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Gyanendra%20Sharma&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-[cite_start]<h1 align="center">Hi 👋, I'm Gyanendra Sharma [cite: 1]</h1>
-<h3 align="center">🤖 AI & Machine Learning Engineer | Data Analyst</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Problem+Solver;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  [cite_start]<a href="mailto:gyanendrasharma912345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> [cite: 3]
+  <a href="mailto:gyanendrasharma912345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
@@ -15,44 +16,66 @@
 
 ### 👨‍💻 About Me
 
-* [cite_start]🎓 **Education:** B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) from Pranveer Singh Institute Of Technology[cite: 2, 10].
-* [cite_start]💼 **Experience:** Worked as an Analyst at NR Consulting [cite: 13, 14][cite_start], where I analyzed datasets to identify trends, validate accuracy, and support business decision-making[cite: 16].
-* [cite_start]⚙️ **Expertise:** Specialized in Machine Learning, Deep Learning, Large Language Models (LLMs), Data Analysis, and Computer Vision[cite: 29].
-* [cite_start]🌱 **Mindset:** Passionate about continuous learning, adapting to new technologies, and delivering high-quality results[cite: 7].
+* 🎓 **Education:** B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Pranveer Singh Institute Of Technology.
+* 💼 **Experience:** Analyst at NR Consulting — transforming raw datasets into data-driven business insights.
+* ⚙️ **Expertise:** Deep Learning, Large Language Models (LLMs), Computer Vision, and Data Analysis.
+* 🚀 **Mission:** Building predictive models and scalable cloud infrastructure to bridge the gap between complex data and elegant solutions.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-[cite_start]**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [cite: 24] [cite_start]![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [cite: 24] [cite_start]![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [cite: 24] [cite_start]![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 24]
+*Using glassmorphic, modern icons for a cleaner, 3D-inspired look.*
 
-[cite_start]**AI, ML & Data Science** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) [cite: 25] [cite_start]![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) [cite: 25] [cite_start]![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) [cite: 25] [cite_start]![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) [cite: 25] [cite_start]![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) [cite: 25] [cite_start]![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) [cite: 25]
+<div align="center">
+  <h3>Languages & Core</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,sql&theme=dark" />
+  </a>
+</div>
 
-[cite_start]**DevOps & Tools** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) [cite: 28] [cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 25] [cite_start]![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) [cite: 28]
+<div align="center">
+  <h3>AI, ML & Data Science</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Databases & DevOps</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,docker,git,aws&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 🏆 GitHub Trophies & Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gyan1201&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="gyan1201 Trophies" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyan1201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyan1201&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Impact |
 | :--- | :--- | :--- |
-| [cite_start]🏋️‍♂️ **Quantify Motion** [cite: 31] | [cite_start]Preprocessed sensor data and implemented ML models (Random Forest, SVM, Neural Networks) to classify exercises with 98.5% accuracy[cite: 33, 34]. | [cite_start]`Python`, `Pandas`, `NumPy`, `scikit-learn` [cite: 32] |
-| [cite_start]📱 **Ultimate Gadgets App** [cite: 37] | [cite_start]Built a cross-platform gadget-selling mobile app with RESTful APIs for inventory and user management[cite: 39, 41]. | [cite_start]`React Native`, `Supabase`, `Node.js` [cite: 38] |
+| 🏋️‍♂️ **Quantify Motion** | AI system processing accelerometer & gyroscope data. | Achieved **98.5% accuracy** in exercise classification using Random Forest, SVM, and Neural Networks. |
+| 📱 **Ultimate Gadgets App** | Cross-platform gadget-selling mobile app. | Delivered seamless state management (Zustand) and robust backend authentication via Supabase. |
 
 ---
 
-### 📈 GitHub Stats
+### 🌌 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/gyan1201/gyan1201/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="800px" />
 </div>
-
----
-
-### 📜 Certifications & Achievements
-
-* [cite_start]🏆 **Bootcamp:** Complete Data Science, Machine Learning, DL, NLP Bootcamp (Udemy) [cite: 43]
-* [cite_start]☁️ **Cloud:** AWS - Solutions Architecture Job Simulation (Forage) [cite: 44]
-* [cite_start]🐍 **Python:** Python Data Structures (Coursera) [cite: 49]
