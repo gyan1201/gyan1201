@@ -1,81 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Gyanendra%20Sharma&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+# Hi there, I'm Gyan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Problem+Solver;Building+Intelligent+Systems" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=21B66D&center=true&vCenter=true&width=435&lines=Web+Developer;React+%26+Vite+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
-  <a href="mailto:gyanendrasharma912345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  Welcome to my GitHub profile! I'm a developer who loves building modern web applications, exploring AI at the edge, and pushing beautiful code.
 </p>
 
----
+### 🛠️ Languages & Tools
 
-### 👨‍💻 About Me
-
-* 🎓 **Education:** B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Pranveer Singh Institute Of Technology.
-* 💼 **Experience:** Analyst at NR Consulting — transforming raw datasets into data-driven business insights.
-* ⚙️ **Expertise:** Deep Learning, Large Language Models (LLMs), Computer Vision, and Data Analysis.
-* 🚀 **Mission:** Building predictive models and scalable cloud infrastructure to bridge the gap between complex data and elegant solutions.
-
----
-
-### 🧰 Tech Stack & Tools
-
-*Using glassmorphic, modern icons for a cleaner, 3D-inspired look.*
-
-<div align="center">
-  <h3>Languages & Core</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,sql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,git,github" />
   </a>
-</div>
+</p>
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <h3>AI, ML & Data Science</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gyan1201&show_icons=true&theme=radium&hide_border=true&bg_color=06100f&text_color=ecfbf5&title_color=8df8d2" alt="gyan1201's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyan1201&theme=radium&hide_border=true&background=06100f&text=ecfbf5&ring=8df8d2&fire=8df8d2&currStreakLabel=ecfbf5" alt="gyan1201's GitHub streak" />
 </div>
 
-<div align="center">
-  <h3>Databases & DevOps</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,docker,git,aws&theme=dark" />
-  </a>
-</div>
+<br>
 
----
-
-### 🏆 GitHub Trophies & Stats
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gyan1201&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="gyan1201 Trophies" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyan1201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyan1201&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Impact |
-| :--- | :--- | :--- |
-| 🏋️‍♂️ **Quantify Motion** | AI system processing accelerometer & gyroscope data. | Achieved **98.5% accuracy** in exercise classification using Random Forest, SVM, and Neural Networks. |
-| 📱 **Ultimate Gadgets App** | Cross-platform gadget-selling mobile app. | Delivered seamless state management (Zustand) and robust backend authentication via Supabase. |
-
----
-
-### 🌌 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gyan1201/gyan1201/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="800px" />
-</div>
+<p align="center">
+  <i>"Code is poetry."</i>
+</p>
