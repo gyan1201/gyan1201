@@ -1,6 +1,8 @@
 # Hi there, I'm Gyan! 👋🤖
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L0I1MEe3Q42z6/giphy.gif" width="200" alt="3D Neural Network Animation" />
+  <br><br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Enthusiast;Building+Edge+AI+Solutions;Prompt+Engineering" alt="Typing SVG" />
   </a>
@@ -16,6 +18,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit,docker,aws,gcp,linux,git,react" />
   </a>
+</p>
+
+### 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="800" />
 </p>
 
 ### 📊 GitHub Activity
