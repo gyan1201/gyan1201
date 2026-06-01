@@ -20,6 +20,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-GPT--4%20%7C%20Llama%203%20%7C%20Grok%20%7C%20Claude-06100f?style=for-the-badge&logo=openai&logoColor=white&color=06100f&labelColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Frameworks-LangChain%20%7C%20LlamaIndex%20%7C%20HuggingFace-06100f?style=for-the-badge&logo=huggingface&logoColor=white&color=06100f&labelColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Architecture-RAG%20%7C%20Agents%20%7C%20Fine--Tuning%20%7C%20Edge%20AI-06100f?style=for-the-badge&logo=codeforces&logoColor=white&color=06100f&labelColor=00F0FF" />
+</p>
+<p align="center">
+  <b>🔥 Deep Learning</b> | <b>🗣️ NLP</b> | <b>👁️ Computer Vision</b> | <b>⚙️ MLOps</b>
+</p>
+
 ### 🌌 3D Contribution Graph
 
 <p align="center">
